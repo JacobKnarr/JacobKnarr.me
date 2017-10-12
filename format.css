@@ -1,0 +1,13 @@
+body {
+  padding: 25px 150px 25px 150px;
+  background-color: #F5F5F5;
+}
+
+h1, h2 {
+  font-family: "Times New Roman", Serif;
+  text-align: center;
+}
+
+ h4, p {
+  font-family: "Times New Roman", Serif;
+}
