@@ -28,7 +28,8 @@ body {
   text-align: center;
 }
 
-.details::before {
+.details{
+  clear: both;
   list-style-type: square;
   margin-left: 20px;
 }
@@ -43,7 +44,8 @@ body {
   display: inline-block;
 }
 
-.location:after {
+.location {
+  clear: both;
   float: left;
   display: block;
 }
