@@ -38,7 +38,7 @@ body {
 }
 
 .title, .location {
-  text-align: left;
+  float: left;
   display: inline-block;
 }
 
