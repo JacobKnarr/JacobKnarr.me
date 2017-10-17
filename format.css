@@ -34,8 +34,10 @@ body {
 
 .dates {
   text-align: right; 
+  display: inline-block;
 }
 
 .title, .location {
   text-align: left;
+  display: inline-block;
 }
