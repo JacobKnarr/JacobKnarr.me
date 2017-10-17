@@ -17,12 +17,12 @@ h1, h2, h4 {
 }
 
 .intro {
-  text-indent: 20px;
   font-family: "Times New Roman", Serif;
   text-align: center;
 }
 
 .details {
+  text-indent: 20px;
   font-family: "Times New Roman", Serif;
   list-style-type: square;
 }
