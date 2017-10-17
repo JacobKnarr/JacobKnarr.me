@@ -2,15 +2,11 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-color: #F1FBFD;
-}
-
-h1, h2, h4 {
   font-family: "Times New Roman", Serif;
 }
 
  p {
   margin-left: 20px;
-  font-family: "Times New Roman", Serif;
 }
 
 .makeCenter {
@@ -25,20 +21,21 @@ h1, h2, h4 {
 }
   
 .info {
-  font-family: "Times New Roman", Serif;
   text-align: center;
 }
 
 .intro {
-  font-family: "Times New Roman", Serif;
   text-align: center;
 }
 
 .details {
-  font-family: "Times New Roman", Serif;
   list-style-type: square;
 }
 
 .dates {
   text-align: right; 
+}
+
+.title, .location {
+  text-align: left;
 }
