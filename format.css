@@ -11,18 +11,18 @@ h1, h2, h4 {
   font-family: "Times New Roman", Serif;
 }
 
-.info h1, h2, h4 {
+.info {
   font-family: "Times New Roman", Serif;
   text-align: center;
 }
 
-.intro p {
+.intro {
   text-indent: 20px;
   font-family: "Times New Roman", Serif;
   text-align: center;
 }
 
-.details ul {
+.details {
   font-family: "Times New Roman", Serif;
   list-style-type: square;
 }
