@@ -5,19 +5,24 @@ body {
 
 h1, h2, h4 {
   font-family: "Times New Roman", Serif;
-  text-align: center;
 }
 
  p {
   font-family: "Times New Roman", Serif;
 }
 
+.info h1, h2, h4 {
+  font-family: "Times New Roman", Serif;
+  text-align: center;
+}
+
 .intro p {
+  font-family: "Times New Roman", Serif;
   text-align: center;
 }
 
 .details ul {
-  text-indent: 20px;
+  text-indent: 100px;
   font-family: "Times New Roman", Serif;
   list-style-type: square;
 }
