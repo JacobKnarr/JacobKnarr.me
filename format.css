@@ -9,21 +9,25 @@ h1, h2, h4 {
 }
 
  p {
+  text-align: left;
   margin-left: 20px;
   font-family: "Times New Roman", Serif;
 }
 
 .info {
+  text-align: left;
   font-family: "Times New Roman", Serif;
   text-align: center;
 }
 
 .intro {
+  text-align: left;
   font-family: "Times New Roman", Serif;
   text-align: center;
 }
 
 .details {
+  text-align: left;
   font-family: "Times New Roman", Serif;
   list-style-type: square;
 }
