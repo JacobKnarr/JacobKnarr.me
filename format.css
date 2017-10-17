@@ -23,7 +23,7 @@ h1, h2, h4 {
 .content {
   float: left;
   position: center;
-  left: -50%;
+  left: 50%;
 }
   
 .info {
