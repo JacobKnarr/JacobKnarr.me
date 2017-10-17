@@ -1,4 +1,5 @@
-body {
+.contents {
+  text-align: center;
   padding: 25px 150px 25px 150px;
   background-color: #F1FBFD;
 }
