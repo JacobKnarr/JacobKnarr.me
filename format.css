@@ -15,9 +15,17 @@ h1, h2, h4 {
 }
 
 .makeCenter {
-  text-align: center;  
+  float: left;
+  position: center;
+  left: 50%;
 }
 
+.content {
+  float: left;
+  position: center;
+  left: -50%;
+}
+  
 .info {
   text-align: left;
   font-family: "Times New Roman", Serif;
