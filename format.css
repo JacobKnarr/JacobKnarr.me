@@ -48,6 +48,6 @@ body {
 }
 
 .status {
-  float: center;
+  text-align: center;
   display: inline-block;
 }
