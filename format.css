@@ -31,7 +31,7 @@ body {
 .details{
   clear: both;
   list-style-type: square;
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .dates {
@@ -50,9 +50,4 @@ body {
   float: left;
   display: block;
   margin-left: 20px;
-}
-
-.status {
-  display: inline-block;
-  text-align: center;
 }
