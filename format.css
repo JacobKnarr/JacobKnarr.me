@@ -37,9 +37,13 @@ body {
   display: inline-block;
 }
 
-.title, .location {
+.title {
   float: left;
   display: inline-block;
+}
+
+.location {
+  float: left;
 }
 
 .status {
