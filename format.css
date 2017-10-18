@@ -6,6 +6,7 @@ body {
 }
 
  p {
+  font-size: 1em;
   margin-left: 20px;
 }
 
@@ -21,27 +22,32 @@ body {
 }
   
 .info, .intro {
+  font-size: 1em;
   text-align: center;
 }
 
 .details{
+  font-size: 1em;
   clear: both;
   list-style-type: square;
   margin-left: 20px;
 }
 
 .dates {
+  font-size: 1em;
   float: right; 
   display: inline-block;
 }
 
 .title {
+  font-size: 1em;
   float: left;
   display: inline-block;
   margin-left: 20px;
 }
 
 .location {
+  font-size: 1em;
   clear: both;
   float: left;
   display: block;
