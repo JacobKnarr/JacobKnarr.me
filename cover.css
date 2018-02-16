@@ -80,6 +80,8 @@ body {
 .nav-masthead .active {
   color: #fff;
   border-bottom-color: #fff;
+  opacity: 1;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
 @media (min-width: 48em) {
